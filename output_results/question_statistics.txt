@@ -1,0 +1,144 @@
+
+Statistics for Q18 - Drug addicts:
+
+Top-5 countries with highest rejection:
+Japan: 99.41%
+Vietnam: 98.83%
+South Korea: 98.07%
+Myanmar: 97.92%
+Taiwan: 96.81%
+
+Bottom-5 countries with lowest rejection:
+Puerto Rico: 44.28%
+Pakistan: 52.53%
+Lebanon: 58.42%
+Nicaragua: 61.17%
+Guatemala: 62.65%
+
+Statistics for Q19 - People of a different race:
+
+Top-5 countries with highest rejection:
+Myanmar: 70.42%
+Vietnam: 62.42%
+Turkey: 41.88%
+Lebanon: 35.92%
+Thailand: 32.47%
+
+Bottom-5 countries with lowest rejection:
+Brazil: 1.36%
+United Kingdom: 1.93%
+Singapore: 2.09%
+Germany: 2.76%
+United States: 3.20%
+
+Statistics for Q20 - People who have AIDS:
+
+Top-5 countries with highest rejection:
+Vietnam: 94.67%
+South Korea: 92.85%
+Jordan: 87.61%
+Myanmar: 85.08%
+Iran: 81.45%
+
+Bottom-5 countries with lowest rejection:
+United Kingdom: 4.56%
+Germany: 6.17%
+Netherlands: 6.37%
+Brazil: 6.47%
+Zimbabwe: 7.49%
+
+Statistics for Q21 - Immigrants/foreign workers:
+
+Top-5 countries with highest rejection:
+Myanmar: 72.83%
+Vietnam: 52.75%
+Malaysia: 50.57%
+Turkey: 49.40%
+India: 47.88%
+
+Bottom-5 countries with lowest rejection:
+Brazil: 2.55%
+Germany: 3.94%
+United Kingdom: 4.64%
+Zimbabwe: 4.99%
+Kenya: 6.99%
+
+Statistics for Q22 - Homosexuals:
+
+Top-5 countries with highest rejection:
+Jordan: 93.77%
+Myanmar: 91.33%
+Zimbabwe: 90.10%
+Nigeria: 89.01%
+Egypt: 84.00%
+
+Bottom-5 countries with lowest rejection:
+Netherlands: 2.33%
+United Kingdom: 4.06%
+Germany: 6.43%
+Brazil: 6.81%
+Canada: 9.76%
+
+Statistics for Q23 - People of a different religion:
+
+Top-5 countries with highest rejection:
+Myanmar: 71.17%
+Uzbekistan: 70.40%
+Vietnam: 50.00%
+Turkey: 42.36%
+Armenia: 37.70%
+
+Bottom-5 countries with lowest rejection:
+United Kingdom: 1.35%
+Singapore: 2.04%
+Netherlands: 2.53%
+Brazil: 2.61%
+United States: 2.75%
+
+Statistics for Q24 - Heavy drinkers:
+
+Top-5 countries with highest rejection:
+Vietnam: 95.17%
+Myanmar: 93.75%
+Jordan: 92.10%
+Iran: 90.39%
+Taiwan: 89.21%
+
+Bottom-5 countries with lowest rejection:
+Uzbekistan: 25.68%
+Brazil: 30.14%
+Puerto Rico: 32.21%
+Colombia: 39.74%
+Nicaragua: 44.00%
+
+Statistics for Q25 - Unmarried couples living together:
+
+Top-5 countries with highest rejection:
+Myanmar: 90.50%
+Jordan: 81.30%
+Bangladesh: 77.70%
+Iran: 76.05%
+Indonesia: 68.88%
+
+Bottom-5 countries with lowest rejection:
+Netherlands: 0.29%
+Germany: 0.66%
+United Kingdom: 0.85%
+Brazil: 1.31%
+Australia: 2.48%
+
+Statistics for Q26 - People who speak a different language:
+
+Top-5 countries with highest rejection:
+Myanmar: 70.75%
+Vietnam: 49.83%
+Bangladesh: 46.94%
+Iraq: 40.25%
+Turkey: 36.94%
+
+Bottom-5 countries with lowest rejection:
+Singapore: 2.04%
+Kenya: 2.68%
+United Kingdom: 3.87%
+Kazakhstan: 4.08%
+Malaysia: 4.11%
